@@ -6,10 +6,15 @@ This project demonstrates how to perform CRUD operations (Create, Read, Update, 
 ## Features
 
 ✔ Add new employees
+
 ✔ View all employees
+
 ✔ Update existing employee details
+
 ✔ Delete an employee
+
 ✔ MySQL database connectivity using JDBC
+
 ✔ Clean and modular code structure
 
 ## Project Structure
@@ -25,10 +30,14 @@ All functionalities (add, view, update, delete, connect) are implemented inside 
 3. Update Employee
 4. Delete Employee
 5. Exit
+
 Enter choice:1
 
 Enter Name: Kavya
+
 Enter Department: IT
+
 Enter Salary: 55000
+
 1 Employee Added.
 
